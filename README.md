@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Aishwary</h1>
-<h3 align="center">An enthusiastic Data scientist and DevOps engineer with skills including Python, Azure DevOps, Machine Learning, Git as well as tele-communication experience.</h3>
+<h3 align="center">Azure DevOps Engineer with around 3 years of experience in cloud infrastructure, automation, and
+CI/CD pipelines.
+• Proficient in designing and deploying cloud solutions using Git, Azure, Docker, Kubernetes and
+Terraform.
+• Successfully developed and deployed automated monitoring solutions for cloud infrastructure, capturing
+real-time performance metrics to enhance troubleshooting efficiency during critical incidents.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryravi&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryravi" /> </p>
